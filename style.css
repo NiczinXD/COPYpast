@@ -132,7 +132,7 @@ li{
 
 @media(max-width: 1200px){
     nav{
-        padding-left: 300px;
+        padding-left: 150px;
         gap: 10px;
     }
 }
